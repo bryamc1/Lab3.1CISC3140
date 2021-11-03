@@ -1,3 +1,6 @@
+Comments: The following data is every single MVP starting from 1951 to 2021. Each section includes the MVP's name, team, year and the total MVP awards for that player during the stated year
+
+
 --All Star Game MVPs 1951-2021s--
 ------------------------------------------------------
 YEAR:1951
