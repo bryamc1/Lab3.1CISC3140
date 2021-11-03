@@ -1,0 +1,371 @@
+--All Star Game MVPs 1951-2021s--
+------------------------------------------------------
+YEAR:1951
+Ed Macauley
+TEAM: BOS
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:1952
+Paul Arizin
+TEAM: PHW
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:1953
+George Mikan
+TEAM: MNL
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:1954
+Bob Cousy
+TEAM: BOS
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:1955
+Bill Sharman
+TEAM: BOS
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:1956
+Bob Pettit
+TEAM: STL
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:1957
+Bob Cousy
+TEAM: BOS
+Total MVP Awards: 2
+------------------------------------------------------
+YEAR:1958
+Bob Pettit
+TEAM: STL
+Total MVP Awards: 2
+------------------------------------------------------
+YEAR:1959
+Bob Pettit
+TEAM: STL
+Total MVP Awards: 3
+------------------------------------------------------
+YEAR:1959
+Elgin Baylor
+TEAM: MNL
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:1960
+Wilt Chamberlain
+TEAM: PHW
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:1961
+Oscar Robertson
+TEAM: CIN
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:1962
+Bob Pettit
+TEAM: STL
+Total MVP Awards: 4
+------------------------------------------------------
+YEAR:1963
+Bill Russell
+TEAM: BOS
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:1964
+Oscar Robertson
+TEAM: CIN
+Total MVP Awards: 2
+------------------------------------------------------
+YEAR:1965
+Jerry Lucas
+TEAM: CIN
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:1966
+Adrian Smith
+TEAM: CIN
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:1967
+Rick Barry
+TEAM: SFW
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:1968
+Hal Greer
+TEAM: PHI
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:1969
+Oscar Robertson
+TEAM: CIN
+Total MVP Awards: 3
+------------------------------------------------------
+YEAR:1970
+Willis Reed
+TEAM: NYK
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:1971
+Lenny Wilkens
+TEAM: SEA
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:1972
+Jerry West
+TEAM: LAL
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:1973
+Dave Cowens
+TEAM: BOS
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:1974
+Bob Lanier
+TEAM: DET
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:1975
+Walt Frazier
+TEAM: NYK
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:1976
+Dave Bing
+TEAM: WSB
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:1977
+Julius Erving
+TEAM: PHI
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:1978
+Randy Smith
+TEAM: BUF
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:1979
+David Thompson
+TEAM: DEN
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:1980
+George Gervin
+TEAM: SAS
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:1981
+Tiny Archibald
+TEAM: BOS
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:1982
+Larry Bird
+TEAM: BOS
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:1983
+Julius Erving
+TEAM: PHI
+Total MVP Awards: 2
+------------------------------------------------------
+YEAR:1984
+Isiah Thomas
+TEAM: DET
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:1985
+Ralph Sampson
+TEAM: HOU
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:1986
+Isiah Thomas
+TEAM: DET
+Total MVP Awards: 2
+------------------------------------------------------
+YEAR:1987
+Tom Chambers
+TEAM: SEA
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:1988
+Michael Jordan
+TEAM: CHI
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:1989
+Karl Malone
+TEAM: UTA
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:1990
+Magic Johnson
+TEAM: LAL
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:1991
+Charles Barkley
+TEAM: PHI
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:1992
+Magic Johnson
+TEAM: LAL
+Total MVP Awards: 2
+------------------------------------------------------
+YEAR:1993
+John Stockton
+TEAM: UTA
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:1993
+Karl Malone
+TEAM: UTA
+Total MVP Awards: 2
+------------------------------------------------------
+YEAR:1994
+Scottie Pippen
+TEAM: CHI
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:1995
+Mitch Richmond
+TEAM: SAC
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:1996
+Michael Jordan
+TEAM: CHI
+Total MVP Awards: 2
+------------------------------------------------------
+YEAR:1997
+Glen Rice
+TEAM: CHH
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:1998
+Michael Jordan
+TEAM: CHI
+Total MVP Awards: 3
+------------------------------------------------------
+YEAR:2000
+Shaquille O'Neal
+TEAM: LAL
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:2000
+Tim Duncan
+TEAM: SAS
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:2001
+Allen Iverson
+TEAM: PHI
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:2002
+Kobe Bryant
+TEAM: LAL
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:2003
+Kevin Garnett
+TEAM: MIN
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:2004
+Shaquille O'Neal
+TEAM: LAL
+Total MVP Awards: 2
+------------------------------------------------------
+YEAR:2005
+Allen Iverson
+TEAM: PHI
+Total MVP Awards: 2
+------------------------------------------------------
+YEAR:2006
+LeBron James
+TEAM: CLE
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:2007
+Kobe Bryant
+TEAM: LAL
+Total MVP Awards: 2
+------------------------------------------------------
+YEAR:2008
+LeBron James
+TEAM: CLE
+Total MVP Awards: 2
+------------------------------------------------------
+YEAR:2009
+Shaquille O'Neal
+TEAM: PHO
+Total MVP Awards: 3
+------------------------------------------------------
+YEAR:2009
+Kobe Bryant
+TEAM: LAL
+Total MVP Awards: 3
+------------------------------------------------------
+YEAR:2010
+Dwyane Wade
+TEAM: MIA
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:2011
+Kobe Bryant
+TEAM: LAL
+Total MVP Awards: 4
+------------------------------------------------------
+YEAR:2012
+Kevin Durant
+TEAM: OKC
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:2013
+Chris Paul
+TEAM: LAC
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:2014
+Kyrie Irving
+TEAM: CLE
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:2015
+Russell Westbrook
+TEAM: OKC
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:2016
+Russell Westbrook
+TEAM: OKC
+Total MVP Awards: 2
+------------------------------------------------------
+YEAR:2017
+Anthony Davis
+TEAM: NOP
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:2018
+LeBron James
+TEAM: CLE
+Total MVP Awards: 3
+------------------------------------------------------
+YEAR:2019
+Kevin Durant
+TEAM: GSW
+Total MVP Awards: 2
+------------------------------------------------------
+YEAR:2020
+Kawhi Leonard
+TEAM: LAC
+Total MVP Awards: 1
+------------------------------------------------------
+YEAR:2021
+Giannis Antetokounmpo
+TEAM: MIL
+Total MVP Awards: 1
